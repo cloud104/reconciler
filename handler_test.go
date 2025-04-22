@@ -29,7 +29,7 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/client"
 	logr "sigs.k8s.io/controller-runtime/pkg/log"
 
-	reconciler "github.com/angelokurtis/reconciler/v2"
+	reconciler "github.com/cloud104/reconciler/v2"
 )
 
 func TestOperations(t *testing.T) {
