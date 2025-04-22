@@ -22,7 +22,7 @@ import (
 
 	ctrl "sigs.k8s.io/controller-runtime"
 
-	"github.com/angelokurtis/reconciler/internal/trace"
+	"github.com/cloud104/reconciler/internal/trace"
 )
 
 type Result struct{}
